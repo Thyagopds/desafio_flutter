@@ -1,16 +1,17 @@
-# app_desafio
+# Desafio Flutter - Aplicação Mobile
 
-A new Flutter project.
+- Descrição
 
-## Getting Started
+  Este projeto tem como objetivo desenvolver uma aplicação mobile utilizando Flutter, implementando funcionalidades essenciais como login e navegação. O cliente solicitou que o projeto estivesse foco na experiência de uso em dispositivos móveis.
 
-This project is a starting point for a Flutter application.
+- Funcionalidades
+  
+    Tela de Login: Permite ao usuário acessar sua conta e visualizar dados personalizados.
+Tela Home: Contém 5 seções, proporcionando navegação intuitiva entre as funcionalidades da aplicação.
+Barra de Navegação Inferior: Implementada para navegação entre as seções principais da aplicação, garantindo uma experiência fluida em dispositivos móveis.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tecnologias Utilizadas
+  
+    Flutter: Framework para desenvolvimento de aplicativos móveis multiplataforma.
+Dart: Linguagem de programação utilizada no Flutter.
+API REST: Integração para consumir dados externos e exibir na aplicação.
